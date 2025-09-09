@@ -1,0 +1,9 @@
+I am M.Bala Kishan.
+I am from Tirunelveli.
+I am from CSE department.
+I am doing my engineering degree in KGiSL Institute of technology.
+I have studied in Balakrishna.matric.hr.sec.school.
+My ambition is to become a Fullstack web developer.
+I want to develope my problem solving skills, so please guide me to improve my skills sir.
+As I am from biology background I don't have much knowledge about computer, so please help me to learn coding.
+I really like  your way of teaching sir so please continue the same way.
