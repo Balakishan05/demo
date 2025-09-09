@@ -7,3 +7,10 @@ My ambition is to become a Fullstack web developer.
 I want to develope my problem solving skills, so please guide me to improve my skills sir.
 As I am from biology background I don't have much knowledge about computer, so please help me to learn coding.
 I really like  your way of teaching sir so please continue the same way.
+FAMILY DETAILS:
+My father name is P.Maharajan.
+He is working as a manager in foundry.
+My mother name is M.Gomathi.
+She is a homemaker.
+And I have a younger brother and his name is M.Kavibharath.
+He is studying 10th standard.
