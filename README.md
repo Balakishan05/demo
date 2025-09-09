@@ -24,3 +24,7 @@ She motivates me at every situation.
 She never lead me in a wrong way.
 She always thinks about me and for my welfare.
 So I never leave my mom and always be with her.
+
+FEEDBACK:
+Sir till now what you have taught is understandable for me.
+Please help to improve my problem solving skills.  
